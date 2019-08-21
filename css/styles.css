@@ -1,0 +1,23 @@
+body {
+      color: rgb(200, 100, 150);
+      font-family: arial;
+      margin:0px;
+     }
+     h1,h2 {
+       text-align: center;
+        }
+        .hla{border-radius: 50%;}
+     li.class1{ text-align:center;
+     }
+     .hla {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+     }
+
+
+ul {
+	font-size: 3em;
+	align: center;
+#lolo  { text-align: center;}
